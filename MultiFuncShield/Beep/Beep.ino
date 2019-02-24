@@ -3,7 +3,7 @@
 // Adaptado do exemplo da biblioteca <MultiFuncShield.h>
 #include <TimerOne.h>
 #include <Wire.h>
-#include "MultiFuncShield.h"
+#include <MultiFuncShield.h>
 
 void setup() {
   // Esse trecho de codigo so ira rodar uma vez

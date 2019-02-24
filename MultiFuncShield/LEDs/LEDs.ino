@@ -4,7 +4,7 @@
  
 #include <TimerOne.h>
 #include <Wire.h>
-#include "MultiFuncShield.h"
+#include <MultiFuncShield.h>
  
 void setup() {
   Timer1.initialize();
