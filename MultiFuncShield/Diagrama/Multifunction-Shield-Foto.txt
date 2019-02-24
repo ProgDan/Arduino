@@ -1,0 +1,9 @@
+Circuitos do Shield Multi-funções :
+- Vermelho –  Display 7 segmentos com 4 dígitos
+- Cinza – Soquete APC220
+- Azul – Buzzer (campaínha)
+- Verde – 4 Leds indicadores
+- Marrom – Potenciômetro
+- Amarelo – Soquete para Sensores de  Temperatura
+- Laranja – 4 botões
+- Rosa – Header PWM
